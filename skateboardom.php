@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>SK8TARDED | Think Nothing But Skateboarding</title>
+<title>SK8TARDED | Skateboardom</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
@@ -12,12 +12,8 @@
 
 </head>
 
-<body>
-	<div class="fullvid-style" style="position: fixed; z-index: -99; width: 100%; height: 100%">
-      <iframe frameborder="0" height="100%" width="100%"  id="mute-button"
-        src="https://youtube.com/embed/iOXszmKgt5U?autoplay=1&controls=0&showinfo=0&autohide=1&loop=100">
-      </iframe>
-    </div>
+<body class="boardom-background">
+	
     
 <!-- Website content -->
 
@@ -28,7 +24,7 @@
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    <a href="index.html">
+                    <a href="index.php">
                        <br>
                         <img src="images/layout/sk8tarded-white.png" class="img-responsive align-center" width="240px;">
                         
@@ -39,10 +35,10 @@
                     <a href="#">Shop</a>
                 </li>
                 <li>
-                    <a href="#">Skateboardom</a>
+                    <a href="skateboardom.php">Skateboardom</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="contact.php">Contact</a>
                 </li>
             </ul>
         </div>
@@ -52,11 +48,23 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <h1>Simple Sidebar</h1>
-                        <p>This template has a responsive menu toggling system. The menu will appear collapsed on smaller screens, and will appear non-collapsed on larger screens. When toggled using the button below, the menu will appear/disappear. On small screens, the page content will be pushed off canvas.</p>
-                        <p>Make sure to keep all page content within the <code>#page-content-wrapper</code>.</p>
-                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+                    <div class=" col-xs-12 col-lg-10">
+                      <br><br><br>
+                        <h1 class="white-text align-center">Skateboardom</h1>
+                        	<h4 class="white-text align-center">When you're bored and can't be on your board...</h4>
+                        		<br><br>
+                        	<div class="row">
+                        		<div class="col-xs-12 col-sm-4">
+                        			<a href="http://www.thrashermagazine.com/" title="Thrasher Mag"><img src="images/layout/thrasher-logo.jpg" alt="Thrasher Mag" class="img-responsive"></a>
+                        		</div>
+                        		<div class="col-xs-12 col-sm-4">
+                        			<a href="http://www.instagram.com/soursolution" title="Sour Skateboards"><img src="images/layout/sour.jpg" alt="Sour Skateboards" class="img-responsive"></a>
+                        		</div>
+                        		<div class="col-xs-12 col-sm-4">
+                        			<a href="http://downrightevil.com" title="Down Right Evil"><img src="images/layout/downrightevil-logo.jpg" alt="Down Right Evil" class="img-responsive"></a>
+                        		</div>
+                        	</div>
+                        
                     </div>
                 </div>
             </div>
@@ -73,6 +81,10 @@
 <script src="js/main.js"></script>
 <script src="js/bootstrap.min.js"></script>
    <script src="js/new/jquery.js"></script>
+   
+       <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
     
     
 </body>

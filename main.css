@@ -3,9 +3,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover; }
 
-h1 {
-  font-family: "courier_primeregular"; }
-
 h1 a {
   color: white; }
 
@@ -56,12 +53,41 @@ a:active {
 
 /* END OF = Video EMBed responsive code */
 .sidebar-nav li a {
-  color: white !important; }
+  color: white !important;
+  background-color: black; }
 
 .sidebar-nav li a:hover {
-  background-color: dimgrey !important;
-  color: black !important; }
+  color: white !important; }
 
+.sidebar-brand a {
+  background-color: none !important; }
+
+.section-heading {
+  color: white; }
+
+.section-subheading {
+  color: white; }
+
+.contact-background {
+  background-color: black; }
+
+.boardom-background {
+  background-color: black; }
+
+#contact {
+  margin-top: 100px; }
+
+.white-text {
+  color: white !important; }
+
+/*
+#sidebar-wrapper {
+	background-image: url("images/layout/line.jpg") !important;
+	background-size: contain!important;
+	background-repeat: no-repeat !important;
+	background-position: bottom !important;
+}
+*/
 /* MODULE */
 /* STATE */
 /* THEME */
