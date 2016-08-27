@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19102",
+"creatorBuild": "19127",
 "files": {
 	"\/contact.php": {
 		"fileType": 8192,
@@ -11,101 +11,112 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/images\/layout\/background2.jpg": {
+	"\/images\/content\/driftershapesheet.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76219,
-		"inputAbbreviatedPath": "\/images\/layout\/background2.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/background2.jpg",
+		"initialSize": 830434,
+		"inputAbbreviatedPath": "\/images\/content\/driftershapesheet.jpg",
+		"outputAbbreviatedPath": "\/images\/content\/driftershapesheet.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/berrics.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 646577,
-		"inputAbbreviatedPath": "\/images\/layout\/berrics.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/berrics.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/layout\/downrightevil-logo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 295994,
-		"inputAbbreviatedPath": "\/images\/layout\/downrightevil-logo.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/downrightevil-logo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/layout\/line.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 260448,
-		"inputAbbreviatedPath": "\/images\/layout\/line.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/line.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/layout\/sk8tarded-white.png": {
+	"\/images\/layout\/drifter-logo-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 50096,
-		"inputAbbreviatedPath": "\/images\/layout\/sk8tarded-white.png",
-		"outputAbbreviatedPath": "\/images\/layout\/sk8tarded-white.png",
+		"initialSize": 54346,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-01.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/sk8tarded.png": {
+	"\/images\/layout\/drifter-logo-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 37310,
-		"inputAbbreviatedPath": "\/images\/layout\/sk8tarded.png",
-		"outputAbbreviatedPath": "\/images\/layout\/sk8tarded.png",
+		"initialSize": 51138,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-02.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/sour.jpg": {
-		"fileType": 16384,
+	"\/images\/layout\/drifter-logo-03.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 78026,
-		"inputAbbreviatedPath": "\/images\/layout\/sour.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/sour.jpg",
+		"initialSize": 12713,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-03.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/thrasher-logo.jpg": {
-		"fileType": 16384,
+	"\/images\/layout\/drifter-logo-04.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 312718,
-		"inputAbbreviatedPath": "\/images\/layout\/thrasher-logo.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/thrasher-logo.jpg",
+		"initialSize": 38461,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-04.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/thrasher.jpg": {
-		"fileType": 16384,
+	"\/images\/layout\/drifter-logo-05.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 500742,
-		"inputAbbreviatedPath": "\/images\/layout\/thrasher.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/thrasher.jpg",
+		"initialSize": 49369,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-05.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/drifter-logo-06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46454,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-06.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-06.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/drifter-logo-07.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11539,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-07.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-07.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/drifter-logo-08.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35052,
+		"inputAbbreviatedPath": "\/images\/layout\/drifter-logo-08.png",
+		"outputAbbreviatedPath": "\/images\/layout\/drifter-logo-08.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/ig2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1831,
+		"inputAbbreviatedPath": "\/images\/layout\/ig2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/ig2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -119,11 +130,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/index.php": {
+	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.php",
+		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -205,6 +216,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/min\/contact_me-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/contact_me-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/contact_me-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/min\/main-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -260,18 +282,9 @@
 		},
 	"\/main.css": {
 		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/skateboardom.php": {
-		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/skateboardom.php",
+		"inputAbbreviatedPath": "\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -374,9 +387,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/styles\/scss\/main.scss",
-		"outputAbbreviatedPath": "\/main.css",
+		"outputAbbreviatedPath": "\/styles\/css\/main.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
@@ -417,9 +430,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "sk8tarded",
+	"displayValue": "site-drifter",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "harddrive_darkGray"
+	"iconImageName": "harddrive_yellow"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
@@ -1053,7 +1066,7 @@
 	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleResolutionType": 0,
-	"typescriptModuleType": 0,
+	"typescriptModuleType": 2,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,

@@ -1,7 +1,15 @@
 /* BASE */
 body {
+  background-color: white;
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover; 
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; !important
+
+}
+
+p { 
+	font-size: 16px;
+}
 
 h1 a {
   color: white; }
@@ -24,6 +32,16 @@ a:active {
   text-decoration: none; }
 
 /* LAYOUT */
+
+.indent {
+	margin-left: 20px;
+}
+.ontop {
+  z-index: 10; }
+
+.white-text-paypal {
+  color: white; }
+
 .align-center {
   margin: auto;
   text-align: center; }
@@ -79,6 +97,36 @@ a:active {
 
 .white-text {
   color: white !important; }
+
+.white-text a {
+  color: white !important;
+  font-size: 17px; }
+
+.white-text a:hover {
+  color: grey !important;
+  font-size: 15px; }
+
+/* Mobile Nav */
+.mobile-nav {
+  display: none; }
+
+.mobile-nav ul li {
+  display: block;
+  background-color: black;
+  padding: 7px;
+  margin-bottom: 5px; }
+
+.mobile-nav ul li a {
+  color: white; }
+
+.mobile-nav ul li:hover {
+  display: block;
+  background-color: red;
+  padding: 7px;
+  margin-bottom: 5px; }
+
+.li-mobile-style {
+  font-size: 22px; }
 
 /*
 #sidebar-wrapper {

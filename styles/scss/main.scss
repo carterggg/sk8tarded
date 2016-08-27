@@ -6,6 +6,7 @@ $main-font: 'courier_primeregular';
 /* BASE */ 
 
 body {
+	background-color: black;
 	background-repeat: no-repeat;
 	background-size:cover;
 }
@@ -15,6 +16,8 @@ body {
 h1 a {
 	color:$main-color2;
 }
+
+
 
 
 /* unvisited link */
@@ -41,6 +44,15 @@ a:active {
 
 
 /* LAYOUT */ 
+
+.ontop {
+	z-index: 10;
+}
+
+.white-text-paypal {
+	color: white;
+}
+
 .align-center {
 	margin: auto;
 	text-align: center;
@@ -54,6 +66,8 @@ a:active {
 .blue {
 	color: blue;
 }
+
+
 
 /* Video EMBed responsive code */
 
@@ -113,6 +127,40 @@ height: 100%;
 .white-text {
 	color:white !important;
 }
+
+.white-text a {
+	color:white !important;
+	font-size: 17px;
+}
+
+.white-text a:hover {
+	color:grey !important;
+    font-size: 15px;
+}
+
+/* Mobile Nav */
+.mobile-nav {
+  display: none; }
+
+.mobile-nav ul li {
+  display: block;
+  background-color: black;
+  padding: 7px;
+  margin-bottom: 5px; }
+
+.mobile-nav ul li a {
+  color: white; }
+
+.mobile-nav ul li:hover {
+  display: block;
+  background-color: red;
+  padding: 7px;
+  margin-bottom: 5px; }
+
+.li-mobile-style {
+  font-size: 22px; 
+}
+
 
 
 

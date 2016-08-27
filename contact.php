@@ -18,28 +18,38 @@
 <!-- Website content -->
 
 <div class="container-fluid">
+
+	<div class="row">
+		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+		   <br>
+   					<h3 class="align-center white-text"><a href="shopsk8.php" title="Shop"> Sk8 Shop | </a><a href="skateboardom.php" title="Sk8boardom videos"> Sk8boardom | </a><a href="contact.php" title="Contact"> Contact </a></h3>
+
+   				<img src="images/layout/sk8tarded-white.png" alt="sk8tarded" class="img-responsive align-center">
+		</div>
+	</div>
+	
 <div id="wrapper">
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="index.php">
-                       <br>
-                        <img src="images/layout/sk8tarded-white.png" class="img-responsive align-center" width="240px;">
+                <li class="sidebar-brand"></li>
                         
-                    </a>
+                        <a href="index.php" title="sk8tarded"><img src="images/layout/sk8tarded-white.png" class="img-responsive align-center" width="240px;"></a>
+                        <br>
+                <li>
+                    <a href="shopsk8.php">Sk8 Shop</a>
                 </li>
                 <li>
-                   <br><br><br>
-                    <a href="#">Shop</a>
-                </li>
-                <li>
-                    <a href="#">Skateboardom</a>
+                    <a href="skateboardom.php">Sk8boardom</a>
                 </li>
                 <li>
                     <a href="contact.php">Contact</a>
                 </li>
+                
+                 <br>
+                 <a href="http://instagram.com/sk8tarded" target="_blank" title="Sk8tarded Instagram"><img src="images/layout/ig2.png" alt="Sk8tarded Instagram" class="img-responsive" width="56px"></a>
+                         <br>
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
@@ -53,11 +63,13 @@
             <div class="row">
                 <div class="col-lg-8 text-center">
                     <h2 class="section-heading">Contact</h2>
-                    <h3 class="section-subheading text-muted">Lets talk skateboarding...</h3>
+                    <h3 class="section-subheading text-muted">sk8tarded@gmail.com</h3>
+                    <p>All Orders take 1-2 weeks to ship. No Returns, if there is a problem with your order just email Sk8tarded and we would be more then glad to help.</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-8">
+                   <!--
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
                             <div class="col-md-6">
@@ -86,7 +98,7 @@
                                 <button type="submit" class="btn btn-xl">Send It</button>
                             </div>
                         </div>
-                    </form>
+                    </form> -->
                 </div>
             </div>
         </div>

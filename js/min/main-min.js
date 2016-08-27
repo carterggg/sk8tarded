@@ -1,1 +1,1 @@
-$(".toggle").click(function(){$(this).next().slideToggle("slow")});
+$(".toggle").click(function(){$(this).next().slideToggle("slow")}),$(".toggle-nav").click(function(){$(".toggle-info").slideToggle("slow")});
