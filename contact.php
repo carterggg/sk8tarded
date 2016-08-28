@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>SK8TARDED | Contact</title>
+<title>Drifter | Contact</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
@@ -12,7 +12,7 @@
 
 </head>
 
-<body class="contact-background">
+<body>
 
     
 <!-- Website content -->
@@ -22,35 +22,43 @@
 	<div class="row">
 		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 		   <br>
-   					<h3 class="align-center white-text"><a href="shopsk8.php" title="Shop"> Sk8 Shop | </a><a href="skateboardom.php" title="Sk8boardom videos"> Sk8boardom | </a><a href="contact.php" title="Contact"> Contact </a></h3>
+   					<h3 class="align-center white-text"><a href="shopsk8.php" title="Shop"> Products | </a><a href="skateboardom.php" title="Sk8boardom videos"> Pricing | </a><a href="contact.php" title="Contact"> Ordering </a></h3>
 
-   				<img src="images/layout/sk8tarded-white.png" alt="sk8tarded" class="img-responsive align-center">
+   				<img src="images/layout/drifter-logo-06.png" alt="Drifter Skateboard Manufacturer" class="img-responsive align-center">
 		</div>
 	</div>
-	
+
 <div id="wrapper">
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand"></li>
+               <br><br>
                         
-                        <a href="index.php" title="sk8tarded"><img src="images/layout/sk8tarded-white.png" class="img-responsive align-center" width="240px;"></a>
+                        <a href="index.html" title="Drifter Skateboard MGF"><img src="images/layout/drifter-logo-06.png" class="img-responsive align-center" width="240px;"></a>
                         <br>
+                        
+             
                 <li>
-                    <a href="shopsk8.php">Sk8 Shop</a>
+                    <a href="products.html">Products</a>
                 </li>
                 <li>
-                    <a href="skateboardom.php">Sk8boardom</a>
+                    <a href="pricing.html">Pricing</a>
+                </li>
+                <li>
+                    <a href="ordering.html">Ordering</a>
                 </li>
                 <li>
                     <a href="contact.php">Contact</a>
                 </li>
                 
-                 <br>
-                 <a href="http://instagram.com/sk8tarded" target="_blank" title="Sk8tarded Instagram"><img src="images/layout/ig2.png" alt="Sk8tarded Instagram" class="img-responsive" width="56px"></a>
+               <br>
+                 <a href="http://instagram.com/drifterskateboardmfg" target="_blank" title="Sk8tarded Instagram"><img src="images/layout/ig2.png" alt="Sk8tarded Instagram" class="img-responsive" width="56px"></a>
                          <br>
+               
             </ul>
+            
+            
         </div>
         <!-- /#sidebar-wrapper -->
 
@@ -61,15 +69,17 @@
     <section id="contact">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 text-center">
-                    <h2 class="section-heading">Contact</h2>
-                    <h3 class="section-subheading text-muted">sk8tarded@gmail.com</h3>
-                    <p>All Orders take 1-2 weeks to ship. No Returns, if there is a problem with your order just email Sk8tarded and we would be more then glad to help.</p>
-                </div>
+                <div class="col-xs-12 col-lg-9 text-center">
+                    <h1><Strong>CONTACT US</Strong></h1>
+                   
+                    <h3>Use the contact form to place a board order, get a quote or ask any questions you have.</h3>
+                    
+                    <h3>Email: ryan@drifterskate.com | Phone: 404.406.0909</h3> <br>
+					</div>
             </div>
             <div class="row">
-                <div class="col-lg-8">
-                   <!--
+                <div class="col-xs-12 col-lg-8">
+                   
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
                             <div class="col-md-6">
@@ -95,10 +105,10 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <button type="submit" class="btn btn-xl">Send It</button>
+                                <button type="submit" class="btn btn-xl">Send</button>
                             </div>
                         </div>
-                    </form> -->
+                    </form>
                 </div>
             </div>
         </div>

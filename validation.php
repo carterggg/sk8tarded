@@ -86,7 +86,7 @@ if(@$_POST['submitted'])
 			echo '<div class="val-background align-center">';
 			echo "<br>";
 			echo '<img src="images/logo/logo.png" class="align-center">';
-			echo "<h2 class='val-style'>Thank You, m00n Clothing will get back to you soon.</h2>";
+			echo "<h2 class='val-style'>Thank You, Drifter will contact you soon.</h2>";
 			echo "<p>Your message has been sent! Below is the information you provided:</p>";
 			echo "<ul>";
 			echo "<li>".$name."</li>";
@@ -95,7 +95,7 @@ if(@$_POST['submitted'])
 			echo "<br>";
 			echo "<li>".$message."</li>";
 			echo "</ul>";
-			echo "<a href=\"".REDIRECT_URL ."\">Go Back to Highgrade m00n.</a>";
+			echo "<a href=\"".REDIRECT_URL ."\">Go Back To Drifter.</a>";
 		    echo "<br>";
 			echo "<br>";
 			echo '</div>';
